@@ -7,7 +7,7 @@ import { FiltrarComponent } from './filtrar/filtrar.component';
   selector: 'app-root',
   imports: [RouterOutlet, CampoComponent, FiltrarComponent],
   templateUrl: './app.component.html',
-  styleUrl: './app.component.css'
+  styleUrl: 'node_modules/bootstrap/dist/css/bootstrap.min.css'
 })
 export class AppComponent {
   title = 'projeto-final';

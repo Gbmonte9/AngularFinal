@@ -1,0 +1,15 @@
+Prompt de comando de AI
+
+obs: eu estou usando o Bootstrap widgets então eu fiz algumas perguntas para ia como fazer a coluna e outros
+assuntos etc....
+
+-como funciona o Bootstrap widgets para criar as colunas que nem  no bootstrap?
+-poderia me ajudar a criar um json que no caso e para vagas de emprego, que tem 
+a foto da logo da empressa, nome da empressa, mostrar caso a empresa for nova ou 
+mesmo se apresentou, cargo da empressa exemplo Senior Front End Developer ou FullStark 
+Developer, Junior FrontEnd Developer, poderia me citar outros nomes, tambem o tempo 
+que foi registrado o cargo 1 dia atras ou 2 ou X dia, se é fulltime ou contract 
+ou Part Time, ai tem uma parte onde fala se o trabalho é Remoto ou Usa only 
+ou worldwide, tem outra parte que fala as habilidades que necessita como : 
+FrontEnd, Sinior, HTML, CSS, Javascript, Fullstark, Midweight, Python, React, 
+Junior, Sass, Vue entre outros.

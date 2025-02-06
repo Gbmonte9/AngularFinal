@@ -1,0 +1,122 @@
+[
+    {
+      "logo": "https://example.com/logo-empresa1.png",
+      "empresa": "Tech Solutions Inc.",
+      "status": "Nova",
+      "cargo": "Senior Front End Developer",
+      "tempo_registrado": "1 dia atrás",
+      "tipo_trabalho": "Full-time",
+      "localizacao": "Remoto",
+      "habilidades": [
+        "Frontend", "Senior", "HTML", "CSS", "JavaScript", "React", "Vue", "Sass"
+      ]
+    },
+    {
+      "logo": "https://example.com/logo-empresa2.png",
+      "empresa": "DevCorp",
+      "status": "Apresentada",
+      "cargo": "Fullstack Developer",
+      "tempo_registrado": "2 dias atrás",
+      "tipo_trabalho": "Contract",
+      "localizacao": "USA Only",
+      "habilidades": [
+        "Fullstack", "React", "Node.js", "JavaScript", "HTML", "CSS", "MongoDB", "Express"
+      ]
+    },
+    {
+      "logo": "https://example.com/logo-empresa3.png",
+      "empresa": "Creative Coders",
+      "status": "Apresentada",
+      "cargo": "Junior Front End Developer",
+      "tempo_registrado": "5 dias atrás",
+      "tipo_trabalho": "Part-time",
+      "localizacao": "Worldwide",
+      "habilidades": [
+        "Frontend", "Junior", "HTML", "CSS", "JavaScript", "React"
+      ]
+    },
+    {
+      "logo": "https://example.com/logo-empresa4.png",
+      "empresa": "Innovative Software Ltd.",
+      "status": "Nova",
+      "cargo": "Midweight Python Developer",
+      "tempo_registrado": "3 horas atrás",
+      "tipo_trabalho": "Full-time",
+      "localizacao": "Remoto",
+      "habilidades": [
+        "Backend", "Midweight", "Python", "Django", "APIs", "PostgreSQL"
+      ]
+    },
+    {
+      "logo": "https://example.com/logo-empresa5.png",
+      "empresa": "GlobalTech",
+      "status": "Apresentada",
+      "cargo": "Senior Fullstack Developer",
+      "tempo_registrado": "1 semana atrás",
+      "tipo_trabalho": "Full-time",
+      "localizacao": "Worldwide",
+      "habilidades": [
+        "Fullstack", "Senior", "React", "Node.js", "TypeScript", "MongoDB", "GraphQL"
+      ]
+    },
+    {
+      "logo": "https://example.com/logo-empresa6.png",
+      "empresa": "Blue Horizon Technologies",
+      "status": "Apresentada",
+      "cargo": "DevOps Engineer",
+      "tempo_registrado": "6 horas atrás",
+      "tipo_trabalho": "Full-time",
+      "localizacao": "Remoto",
+      "habilidades": [
+        "DevOps", "AWS", "Docker", "Kubernetes", "CI/CD", "Linux", "Terraform"
+      ]
+    },
+    {
+      "logo": "https://example.com/logo-empresa7.png",
+      "empresa": "Xplorer Innovations",
+      "status": "Nova",
+      "cargo": "Junior JavaScript Developer",
+      "tempo_registrado": "3 dias atrás",
+      "tipo_trabalho": "Contract",
+      "localizacao": "USA Only",
+      "habilidades": [
+        "Frontend", "Junior", "JavaScript", "React", "Node.js"
+      ]
+    },
+    {
+      "logo": "https://example.com/logo-empresa8.png",
+      "empresa": "NextGen Solutions",
+      "status": "Apresentada",
+      "cargo": "Senior UI/UX Designer",
+      "tempo_registrado": "1 mês atrás",
+      "tipo_trabalho": "Part-time",
+      "localizacao": "Worldwide",
+      "habilidades": [
+        "UI/UX", "Senior", "Figma", "Sketch", "Adobe XD", "Prototyping"
+      ]
+    },
+    {
+      "logo": "https://example.com/logo-empresa9.png",
+      "empresa": "Tech Ventures",
+      "status": "Nova",
+      "cargo": "Data Scientist",
+      "tempo_registrado": "2 semanas atrás",
+      "tipo_trabalho": "Full-time",
+      "localizacao": "Remoto",
+      "habilidades": [
+        "Data Science", "Python", "Machine Learning", "TensorFlow", "SQL", "R"
+      ]
+    },
+    {
+      "logo": "https://example.com/logo-empresa10.png",
+      "empresa": "Elite Innovations",
+      "status": "Apresentada",
+      "cargo": "Mobile App Developer",
+      "tempo_registrado": "4 dias atrás",
+      "tipo_trabalho": "Contract",
+      "localizacao": "USA Only",
+      "habilidades": [
+        "Mobile", "React Native", "JavaScript", "Swift", "Kotlin", "Android", "iOS"
+      ]
+    }
+  ]
