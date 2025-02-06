@@ -1,122 +1,122 @@
 [
-    {
-      "logo": "https://example.com/logo-empresa1.png",
-      "empresa": "Tech Solutions Inc.",
-      "status": "Nova",
-      "cargo": "Senior Front End Developer",
-      "tempo_registrado": "1 dia atrás",
-      "tipo_trabalho": "Full-time",
-      "localizacao": "Remoto",
-      "habilidades": [
-        "Frontend", "Senior", "HTML", "CSS", "JavaScript", "React", "Vue", "Sass"
-      ]
-    },
-    {
-      "logo": "https://example.com/logo-empresa2.png",
-      "empresa": "DevCorp",
-      "status": "Apresentada",
-      "cargo": "Fullstack Developer",
-      "tempo_registrado": "2 dias atrás",
-      "tipo_trabalho": "Contract",
-      "localizacao": "USA Only",
-      "habilidades": [
-        "Fullstack", "React", "Node.js", "JavaScript", "HTML", "CSS", "MongoDB", "Express"
-      ]
-    },
-    {
-      "logo": "https://example.com/logo-empresa3.png",
-      "empresa": "Creative Coders",
-      "status": "Apresentada",
-      "cargo": "Junior Front End Developer",
-      "tempo_registrado": "5 dias atrás",
-      "tipo_trabalho": "Part-time",
-      "localizacao": "Worldwide",
-      "habilidades": [
-        "Frontend", "Junior", "HTML", "CSS", "JavaScript", "React"
-      ]
-    },
-    {
-      "logo": "https://example.com/logo-empresa4.png",
-      "empresa": "Innovative Software Ltd.",
-      "status": "Nova",
-      "cargo": "Midweight Python Developer",
-      "tempo_registrado": "3 horas atrás",
-      "tipo_trabalho": "Full-time",
-      "localizacao": "Remoto",
-      "habilidades": [
-        "Backend", "Midweight", "Python", "Django", "APIs", "PostgreSQL"
-      ]
-    },
-    {
-      "logo": "https://example.com/logo-empresa5.png",
-      "empresa": "GlobalTech",
-      "status": "Apresentada",
-      "cargo": "Senior Fullstack Developer",
-      "tempo_registrado": "1 semana atrás",
-      "tipo_trabalho": "Full-time",
-      "localizacao": "Worldwide",
-      "habilidades": [
-        "Fullstack", "Senior", "React", "Node.js", "TypeScript", "MongoDB", "GraphQL"
-      ]
-    },
-    {
-      "logo": "https://example.com/logo-empresa6.png",
-      "empresa": "Blue Horizon Technologies",
-      "status": "Apresentada",
-      "cargo": "DevOps Engineer",
-      "tempo_registrado": "6 horas atrás",
-      "tipo_trabalho": "Full-time",
-      "localizacao": "Remoto",
-      "habilidades": [
-        "DevOps", "AWS", "Docker", "Kubernetes", "CI/CD", "Linux", "Terraform"
-      ]
-    },
-    {
-      "logo": "https://example.com/logo-empresa7.png",
-      "empresa": "Xplorer Innovations",
-      "status": "Nova",
-      "cargo": "Junior JavaScript Developer",
-      "tempo_registrado": "3 dias atrás",
-      "tipo_trabalho": "Contract",
-      "localizacao": "USA Only",
-      "habilidades": [
-        "Frontend", "Junior", "JavaScript", "React", "Node.js"
-      ]
-    },
-    {
-      "logo": "https://example.com/logo-empresa8.png",
-      "empresa": "NextGen Solutions",
-      "status": "Apresentada",
-      "cargo": "Senior UI/UX Designer",
-      "tempo_registrado": "1 mês atrás",
-      "tipo_trabalho": "Part-time",
-      "localizacao": "Worldwide",
-      "habilidades": [
-        "UI/UX", "Senior", "Figma", "Sketch", "Adobe XD", "Prototyping"
-      ]
-    },
-    {
-      "logo": "https://example.com/logo-empresa9.png",
-      "empresa": "Tech Ventures",
-      "status": "Nova",
-      "cargo": "Data Scientist",
-      "tempo_registrado": "2 semanas atrás",
-      "tipo_trabalho": "Full-time",
-      "localizacao": "Remoto",
-      "habilidades": [
-        "Data Science", "Python", "Machine Learning", "TensorFlow", "SQL", "R"
-      ]
-    },
-    {
-      "logo": "https://example.com/logo-empresa10.png",
-      "empresa": "Elite Innovations",
-      "status": "Apresentada",
-      "cargo": "Mobile App Developer",
-      "tempo_registrado": "4 dias atrás",
-      "tipo_trabalho": "Contract",
-      "localizacao": "USA Only",
-      "habilidades": [
-        "Mobile", "React Native", "JavaScript", "Swift", "Kotlin", "Android", "iOS"
-      ]
-    }
-  ]
+  {
+    "logo": "https://img.freepik.com/vetores-premium/um-logotipo-para-a-empresa-empresa-sobre-um-fundo-branco_1072857-23733.jpg?semt=ais_hybrid",
+    "empresa": "Tech Solutions Inc.",
+    "status": "Nova",
+    "cargo": "Senior Front End Developer",
+    "tempo_registrado": "1 dia atrás",
+    "tipo_trabalho": "Full-time",
+    "localizacao": "Remoto",
+    "habilidades": [
+      "Frontend", "Senior", "HTML", "CSS", "JavaScript", "React", "Vue", "Sass"
+    ]
+  },
+  {
+    "logo": "https://static.vecteezy.com/ti/vetor-gratis/p1/8214517-abstract-geometric-logo-or-infinity-line-logo-for-your-company-gratis-vetor.jpg",
+    "empresa": "DevCorp",
+    "status": "Apresentada",
+    "cargo": "Fullstack Developer",
+    "tempo_registrado": "2 dias atrás",
+    "tipo_trabalho": "Contract",
+    "localizacao": "USA Only",
+    "habilidades": [
+      "Fullstack", "React", "Node.js", "JavaScript", "HTML", "CSS", "MongoDB", "Express"
+    ]
+  },
+  {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZMRQTPWL2MVFtx0cGGZPXfd13HCq36Eti4aRj2zQuUqS5RuACh7q9qfGGqEvMelv5JEo&usqp=CAU",
+    "empresa": "Creative Coders",
+    "status": "Apresentada",
+    "cargo": "Junior Front End Developer",
+    "tempo_registrado": "5 dias atrás",
+    "tipo_trabalho": "Part-time",
+    "localizacao": "Worldwide",
+    "habilidades": [
+      "Frontend", "Junior", "HTML", "CSS", "JavaScript", "React"
+    ]
+  },
+  {
+    "logo": "https://media.istockphoto.com/id/1201144331/pt/vetorial/icon-design-element-logo-for-technology-innovation-company-tech-icon-and-symbol.jpg?s=612x612&w=0&k=20&c=_lPguRnnU69N0OdgDm3LqlOp-CqNA_9QSy8dcEWXq60=",
+    "empresa": "Innovative Software Ltd.",
+    "status": "Nova",
+    "cargo": "Midweight Python Developer",
+    "tempo_registrado": "3 horas atrás",
+    "tipo_trabalho": "Full-time",
+    "localizacao": "Remoto",
+    "habilidades": [
+      "Backend", "Midweight", "Python", "Django", "APIs", "PostgreSQL"
+    ]
+  },
+  {
+    "logo": "https://i.pinimg.com/736x/61/b9/10/61b9108a02d231a64f7452b277736b2c.jpg",
+    "empresa": "GlobalTech",
+    "status": "Apresentada",
+    "cargo": "Senior Fullstack Developer",
+    "tempo_registrado": "1 semana atrás",
+    "tipo_trabalho": "Full-time",
+    "localizacao": "Worldwide",
+    "habilidades": [
+      "Fullstack", "Senior", "React", "Node.js", "TypeScript", "MongoDB", "GraphQL"
+    ]
+  },
+  {
+    "logo": "https://i.pinimg.com/736x/04/80/0e/04800ed767b7056d03dbc63d0844fb98.jpg",
+    "empresa": "Blue Horizon Technologies",
+    "status": "Apresentada",
+    "cargo": "DevOps Engineer",
+    "tempo_registrado": "6 horas atrás",
+    "tipo_trabalho": "Full-time",
+    "localizacao": "Remoto",
+    "habilidades": [
+      "DevOps", "AWS", "Docker", "Kubernetes", "CI/CD", "Linux", "Terraform"
+    ]
+  },
+  {
+    "logo": "https://img.freepik.com/vetores-gratis/logotipo-abstrato-em-forma-de-chama_1043-44.jpg",
+    "empresa": "Xplorer Innovations",
+    "status": "Nova",
+    "cargo": "Junior JavaScript Developer",
+    "tempo_registrado": "3 dias atrás",
+    "tipo_trabalho": "Contract",
+    "localizacao": "USA Only",
+    "habilidades": [
+      "Frontend", "Junior", "JavaScript", "React", "Node.js"
+    ]
+  },
+  {
+    "logo": "https://img.freepik.com/vetores-premium/logotipo-geometrico-e-modelos-de-formas-diferentes_974962-173.jpg",
+    "empresa": "NextGen Solutions",
+    "status": "Apresentada",
+    "cargo": "Senior UI/UX Designer",
+    "tempo_registrado": "1 mês atrás",
+    "tipo_trabalho": "Part-time",
+    "localizacao": "Worldwide",
+    "habilidades": [
+      "UI/UX", "Senior", "Figma", "Sketch", "Adobe XD", "Prototyping"
+    ]
+  },
+  {
+    "logo": "https://s3-sa-east-1.amazonaws.com/projetos-artes/fullsize%2F2012%2F06%2F16%2F05%2FWDL-Logo-14117_15985_050821293_4569437.jpg",
+    "empresa": "Tech Ventures",
+    "status": "Nova",
+    "cargo": "Data Scientist",
+    "tempo_registrado": "2 semanas atrás",
+    "tipo_trabalho": "Full-time",
+    "localizacao": "Remoto",
+    "habilidades": [
+      "Data Science", "Python", "Machine Learning", "TensorFlow", "SQL", "R"
+    ]
+  },
+  {
+    "logo": "https://img.freepik.com/vetores-premium/design-de-logotipo-de-negocios-abstrato-conceito-de-logotipo-da-empresa-de-vetor-sinal-corporativo-haxogen-para-identidade-de-marca_87543-7845.jpg",
+    "empresa": "Elite Innovations",
+    "status": "Apresentada",
+    "cargo": "Mobile App Developer",
+    "tempo_registrado": "4 dias atrás",
+    "tipo_trabalho": "Contract",
+    "localizacao": "USA Only",
+    "habilidades": [
+      "Mobile", "React Native", "JavaScript", "Swift", "Kotlin", "Android", "iOS"
+    ]
+  }
+]

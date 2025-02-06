@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, Input } from '@angular/core';
 
 @Component({
   selector: 'app-descricao',
@@ -8,4 +8,7 @@ import { Component } from '@angular/core';
 })
 export class DescricaoComponent {
 
+  @Input() tempo_registrado: string = '';  
+  @Input() tipo_trabalho: string = '';     
+  @Input() localizacao: string = '';       
 }

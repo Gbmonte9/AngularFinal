@@ -1,7 +1,42 @@
-<div class="col-md-6">
-    <app-foto />
-</div>
-<app-titulo />
-<app-descricao />
-<app-categoria />
-
+@if (vagaAberta) {
+  <div class="container">
+    <div class="row">
+      @for (emprego of empregos; track emprego.empresa) {
+        <div class="col">
+          <div class="card h-100">
+            <div class="card-body">
+              <div class="ms-3">
+                <app-foto 
+                  [logo]="emprego.logo" 
+                  class="img-fluid rounded-circle border mb-3" 
+                  width="80" 
+                  height="80" 
+                  style="max-width: 80px; max-height: 80px;">
+                </app-foto>
+              </div>
+              <div class="ms-3">
+                <app-titulo 
+                  [empresa]="emprego.empresa" 
+                  [cargo]="emprego.cargo" 
+                  [status]="emprego.status"
+                  class="card-title mb-2">
+                </app-titulo>
+                <app-descricao 
+                  [tempo_registrado]="emprego.tempo_registrado" 
+                  [tipo_trabalho]="emprego.tipo_trabalho" 
+                  [localizacao]="emprego.localizacao"
+                  class="card-text mb-3">
+                </app-descricao>
+              </div>
+              <div class="ms-3">
+                <app-categoria [habilidades]="emprego.habilidades" class="card-text"></app-categoria>
+              </div>
+            </div>
+          </div>
+        </div>
+      }
+    </div>
+  </div>
+} @else {
+  <p>Sem emprego</p>
+}

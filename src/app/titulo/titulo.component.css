@@ -1,0 +1,37 @@
+
+.empresa-nome {
+    font-size: 14px;                        
+    color: black;                           
+    margin-bottom: 5px;                     
+    display: inline-block;                  
+  }
+  
+  .status {
+    display: inline-block;                  
+    padding: 8px 16px;                     
+    background-color: #28a745;              
+    color: white;                           
+    border-radius: 50%;                     
+    font-size: 14px;                        
+    text-align: center;                     
+    vertical-align: middle;                 
+    margin-left: 10px;                      
+  }
+  
+  .cargo {
+    display: block;                        
+    font-size: 18px;                        
+    color: black;                          
+    text-decoration: none;                  
+    font-weight: bold;                     
+    transition: color 0.3s ease;            
+    margin-top: 10px;                       
+  }
+  
+  .cargo:hover {
+    color: #28a745;                         
+  }
+  
+  .cargo:active {
+    color: #218838;                         
+  }

@@ -1,1 +1,5 @@
-<p>categoria works!</p>
+<div class="habilidades">
+    @for (habilidade of habilidades; track habilidade) {
+      <button type="button" class="btn btn-outline-success">{{ habilidade }}</button>
+    }
+</div>

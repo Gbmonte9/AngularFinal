@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, Input } from '@angular/core';
 
 @Component({
   selector: 'app-foto',
@@ -6,6 +6,8 @@ import { Component } from '@angular/core';
   templateUrl: './foto.component.html',
   styleUrl: './foto.component.css'
 })
-export class FotoComponent {
+export class FotoComponent { 
+
+  @Input() logo: string = ''; 
 
 }

@@ -13,3 +13,7 @@ ou Part Time, ai tem uma parte onde fala se o trabalho é Remoto ou Usa only
 ou worldwide, tem outra parte que fala as habilidades que necessita como : 
 FrontEnd, Sinior, HTML, CSS, Javascript, Fullstark, Midweight, Python, React, 
 Junior, Sass, Vue entre outros.
+-no bootstrap qual comando para deixa a foto circular?
+-como funcionar o input e outpoot
+
+
