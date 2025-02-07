@@ -2,11 +2,12 @@ import { Component, OnInit } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { CampoComponent } from './campo/campo.component';
 import { FiltrarComponent } from './filtrar/filtrar.component';
+import { FooterComponent } from './footer/footer.component';
 import { HttpClient } from '@angular/common/http';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet, CampoComponent, FiltrarComponent],
+  imports: [RouterOutlet, CampoComponent, FiltrarComponent, FooterComponent],
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })

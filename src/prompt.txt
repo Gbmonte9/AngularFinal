@@ -14,6 +14,10 @@ ou worldwide, tem outra parte que fala as habilidades que necessita como :
 FrontEnd, Sinior, HTML, CSS, Javascript, Fullstark, Midweight, Python, React, 
 Junior, Sass, Vue entre outros.
 -no bootstrap qual comando para deixa a foto circular?
--como funcionar o input e outpoot
+-como funcionar o input e Output
+-como eu poderia mover os objetos sem precisar criar o type?
+-me fale sobre o OnChanges e SimpleChanges
+- me fale sobre EventEmitter
+-como devo organizar as colunas usando bootstrap
 
 

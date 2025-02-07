@@ -1,11 +1,11 @@
 @if (vagaAberta) {
   <div class="container">
-    <div class="row">
+    <div class="row flex-column flex-md-row"> 
       @for (emprego of empregos; track emprego.empresa) {
-        <div class="col">
+        <div class="col-12 col-md-6 col-lg-4 mb-4"> 
           <div class="card h-100">
-            <div class="card-body">
-              <div class="ms-3">
+            <div class="card-body d-flex flex-column flex-md-row align-items-center">
+              <div class="me-3">
                 <app-foto 
                   [logo]="emprego.logo" 
                   class="img-fluid rounded-circle border mb-3" 
@@ -14,7 +14,7 @@
                   style="max-width: 80px; max-height: 80px;">
                 </app-foto>
               </div>
-              <div class="ms-3">
+              <div class="flex-grow-1">
                 <app-titulo 
                   [empresa]="emprego.empresa" 
                   [cargo]="emprego.cargo" 
@@ -28,8 +28,11 @@
                   class="card-text mb-3">
                 </app-descricao>
               </div>
-              <div class="ms-3">
-                <app-categoria [habilidades]="emprego.habilidades" class="card-text"></app-categoria>
+              <div>
+                <app-categoria 
+                  [habilidades]="emprego.habilidades" 
+                  class="categoria-container">
+                </app-categoria>
               </div>
             </div>
           </div>

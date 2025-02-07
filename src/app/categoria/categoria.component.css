@@ -1,23 +1,22 @@
 .habilidades {
-    display: flex;                
-    flex-wrap: wrap;              
-    gap: 10px;                    
-    justify-content: flex-start;  
-  }
-  
-  .habilidades button {
-    padding: 5px 15px;            
-    font-size: 14px;              
-    border-radius: 20px;          
-    transition: background-color 0.3s ease, border-color 0.3s ease;  
-  }
-  
-  .habilidades button:hover {
-    background-color: #28a745;   
-    color: #fff;                  
-    border-color: #28a745;        
-  }
-  
-  .habilidades button:focus {
-    outline: none;                
-  }
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.habilidades button {
+  background-color: #eef6f6; 
+  color: #5a7f7f; 
+  border: none; 
+  border-radius: 5px; 
+  padding: 8px 12px; 
+  font-size: 14px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+.habilidades button:hover {
+  background-color: #5a7f7f; 
+  color: white;
+}
